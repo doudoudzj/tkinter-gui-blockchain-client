@@ -1,9 +1,4 @@
-# 用Python从零开始创建区块链
-
-本文是博客：[用Python从零开始创建区块链](http://learnblockchain.cn/2017/10/27/build_blockchain_by_python/) 的源码. 
-翻译自[Building a Blockchain](https://medium.com/p/117428612f46)
-
-[博客地址](http://learnblockchain.cn/2017/10/27/build_blockchain_by_python/)| [英文README](https://github.com/xilibi2003/blockchain/blob/master/README-en.md) 
+# 基于Tkinter的区块链桌面应用程序
 
 ## 安装
 
@@ -55,11 +50,5 @@ $ docker run --rm -p 81:5000 blockchain
 $ docker run --rm -p 82:5000 blockchain
 $ docker run --rm -p 83:5000 blockchain
 ```
-
-## 贡献
-[深入浅出区块链](http://learnblockchain.cn/) 想做好的区块链学习博客。
-[博客地址](https://github.com/xilibi2003/learnblockchain) 欢迎大家一起参与贡献，一起推动区块链技术发展。
-
-
 
 
