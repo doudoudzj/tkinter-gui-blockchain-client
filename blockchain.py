@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
+"""Blockchain"""
+
+# 类库修改自源码 https://github.com/xilibi2003/blockchain/blob/master/blockchain.py
+
 import hashlib
 import json
 from time import time
