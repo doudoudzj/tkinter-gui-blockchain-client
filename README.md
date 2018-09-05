@@ -1,4 +1,4 @@
-# 基于Tkinter的区块链桌面应用程序
+# 基于 Python + Tkinter 的区块链桌面应用程序
 
 ## 安装
 
