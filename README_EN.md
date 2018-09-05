@@ -1,6 +1,5 @@
-# Learn Blockchains by Building One
+# A Blockchain Application based on Tkinter in Python
 
-This is the source code for my post on [Building a Blockchain](https://medium.com/p/117428612f46). 
 
 ## Installation
 
